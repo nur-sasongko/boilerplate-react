@@ -231,10 +231,10 @@ module.exports = {
         65: ".65",
       },
       backgroundImage: {
-        video: "url('../images/video/video.png')",
+        video: "url('features/core/assets/images/video/video.png')",
       },
       content: {
-        "icon-copy": "url(\"../images/icon/icon-copy-alt.svg\")",
+        "icon-copy": "url(\"features/core/assets/images/icon/icon-copy-alt.svg\")",
       },
       transitionProperty: { width: "width", stroke: "stroke" },
       borderWidth: {

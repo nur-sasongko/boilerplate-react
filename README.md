@@ -1,3 +1,6 @@
+# Information
+This project uses Grouping by Features/Modules, where each feature/module has its own folder and contains all the necessary files for the feature/module to work.
+
 # Tech Stack
 List of Tech Stack used in the project:
 - **UI Library**: React
